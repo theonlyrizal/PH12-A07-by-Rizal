@@ -16165,7 +16165,7 @@ function Z2(i) {
 }
 const V2 = async () => {
   try {
-    return await (await fetch('/tickets.json')).json();
+    return await (await fetch('../tickets.json')).json();
   } catch {
     console.log('JSON Could not be loaded properly');
   }
