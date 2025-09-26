@@ -1,0 +1,66 @@
+Folder PATH listing for volume Bruh!
+Volume serial number is BCE6-FF63
+D:.
+�   .gitignore
+�   eslint.config.js
+�   index.html
+�   netlify.toml
+�   output.txt
+�   package-lock.json
+�   package.json
+�   README.md
+�   tailwind.config.js
+�   vite.config.js
+�   
++---.netlify
+�   �   netlify.toml
+�   �   state.json
+�   �   
+�   +---functions-internal
+�   +---v1
+�       +---functions
++---dist
+�   �   index.html
+�   �   
+�   +---assets
+�           index-DedZcHKs.js
+�           index-JB8JIV9_.css
+�           
+      
++---public
+�       tickets.JSON
+�       
++---src
+    �   App.css
+    �   App.jsx
+    �   index.css
+    �   main.jsx
+    �   
+    +---assets
+    �       vector1.png
+    �       vector2.png
+    �       
+    +---components
+        +---Banner
+        �       Banner.jsx
+        �       InProgress.jsx
+        �       Resolved.jsx
+        �       
+        +---Footer
+        �       Footer.jsx
+        �       
+        +---Main
+        �   �   Main.jsx
+        �   �   
+        �   +---Status
+        �   �       Complete.jsx
+        �   �       Pending.jsx
+        �   �       Status.jsx
+        �   �       
+        �   +---Tickets
+        �           Ticket.jsx
+        �           Tickets.jsx
+        �           
+        +---Navbar
+                Navbar.jsx
+                
